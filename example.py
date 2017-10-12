@@ -7,7 +7,6 @@ from bs4 import BeautifulSoup
 import re
 import psycopg2
 import urllib2
-global ID
 
 def addToDatabase(dataObject):
     
